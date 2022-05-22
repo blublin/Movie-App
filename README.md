@@ -6,6 +6,9 @@ Maria Gorbunova
 CIS 41B Adv Python
 Mar 23, 2021
 
+Current Issue:
+Python Library PIL (Python Image Library) is discontinued. Requires updated to Pillow (PIL Fork).
+
 
 Overview:
 The intention of the project was to create a (mostly) single window app that allows users to search for and track movies. They can search for movies online through an API or view stored movies from their own list by searching a database file.
